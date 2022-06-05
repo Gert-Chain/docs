@@ -89,7 +89,7 @@ Replacing `<moniker name>` with your desired name.
 2. Fetch the genesis `genesis.json` file
 
 ```
-wget https://raw.githubusercontent.com/Gert-Chain/networks/master/testnet/.json -O $HOME/.gert/config/genesis.json
+wget https://raw.githubusercontent.com/Gert-Chain/networks/master/testnet/genesis.json -O $HOME/.gert/config/genesis.json
 ```
 3. Download the `addrbook.json` file
 
